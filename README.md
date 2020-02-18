@@ -2,8 +2,9 @@
 
 A public GraphQL API for information about planets and exoplanets.
 
-Writing Queries
+## Writing Queries
 
+```
 {
   planet(id:1) {
     name
@@ -14,9 +15,11 @@ Writing Queries
     discoveryMethod
   }
 }
+```
 
 The above query will produce the following result:
 
+```
 {
 'data': {
   'planet': {
@@ -28,3 +31,4 @@ The above query will produce the following result:
       'discoveryMethod': 'telescope'}
     }
 }
+```
