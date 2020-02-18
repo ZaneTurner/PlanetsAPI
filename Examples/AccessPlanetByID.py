@@ -4,7 +4,7 @@ URL = "https://pristine-gadget-267405.appspot.com/graphql/"
 
 query = """
 {
-  planet(id:1) {
+  planet(code:"earth"){
     name
     massKg
     radiusKm
