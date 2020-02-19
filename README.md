@@ -46,3 +46,5 @@ This API makes use of data from the first public release of the WASP data (Butte
 
 ## License
 
+[MIT] (https://github.com/ZaneTurner/PlanetsAPI/blob/master/LICENSE)
+
