@@ -35,3 +35,14 @@ The above query will produce the following result:
 ## Examples
 
 [Python](https://github.com/ZaneTurner/PlanetsAPI/blob/master/Examples/AccessPlanetByID.py)
+
+## Implementation
+
+This GraphQl API was implemented using Python/Django and is hosted on Google Cloud. It uses a MySQL database to store the information about the planets. 
+
+## Acknowledgements/source
+
+This API makes use of data from the first public release of the WASP data (Butters et al. 2010) as provided by the WASP consortium and services at the NASA Exoplanet Archive, which is operated by the California Institute of Technology, under contract with the National Aeronautics and Space Administration under the Exoplanet Exploration Program.
+
+## License
+
