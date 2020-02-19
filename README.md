@@ -6,7 +6,8 @@ A public GraphQL API for information about planets and exoplanets. Currently the
 
 ```
 query{
-  planet(code:"jupiter"){
+  planet(code:"venus"){
+    name
     massKg
     radiusKm
     orbitDays
@@ -22,10 +23,11 @@ The above query will produce the following result:
 {
   "data": {
     "planet": {
-      "massKg": "1.898e+27",
-      "radiusKm": "43441",
-      "orbitDays": "4300",
-      "semimajorAu": "0.52028",
+      "name": "Venus",
+      "massKg": "4.867e+24",
+      "radiusKm": "6051.8",
+      "orbitDays": "225",
+      "semimajorAu": "0.723",
       "discoveryMethod": "telescope"
     }
   }
