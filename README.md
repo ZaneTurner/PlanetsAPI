@@ -1,6 +1,6 @@
 # PlanetsAPI
 
-A public GraphQL API for information about planets and exoplanets.
+A public GraphQL API for information about planets and exoplanets. Currently the API is down, will be fixed by Feburary 21st.
 
 ## Writing Queries
 
