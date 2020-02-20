@@ -1,6 +1,6 @@
 # PlanetsAPI
 
-A public GraphQL API for information about planets and exoplanets. Currently the API is down, will be fixed by Feburary 21st.
+A public GraphQL API for information about planets and exoplanets.
 
 ## Writing Queries
 
@@ -48,5 +48,5 @@ This API makes use of data from the first public release of the WASP data (Butte
 
 ## License
 
-[MIT] (https://github.com/ZaneTurner/PlanetsAPI/blob/master/LICENSE)
+[MIT](https://github.com/ZaneTurner/PlanetsAPI/blob/master/LICENSE)
 
