@@ -4,7 +4,6 @@ const fetch = createApolloFetch({
   uri: 'https://pristine-gadget-267405.appspot.com/graphql/',
 });
 
-// You can also easily pass variables for dynamic arguments
 fetch({
   query: `query{
     planet(code:"neptune"){
