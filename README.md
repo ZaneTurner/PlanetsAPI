@@ -36,9 +36,11 @@ The above query will produce the following result:
 
 ## Examples
 
-[Python](https://github.com/ZaneTurner/PlanetsAPI/blob/master/Examples/AccessPlanetByID.py)
+[Python GraphQL](https://github.com/ZaneTurner/PlanetsAPI/blob/master/Examples/AccessPlanetByID.py)
 
 [JavaScript](https://github.com/ZaneTurner/PlanetsAPI/blob/master/Examples/javascript-example.js)
+
+[GraphiQL (easiest method just input the query directly)](https://pristine-gadget-267405.appspot.com/graphql/)
 
 ## Implementation
 
